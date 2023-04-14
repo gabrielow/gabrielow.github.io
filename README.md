@@ -1,2 +1,0 @@
-# ite.ar
-PANEL
